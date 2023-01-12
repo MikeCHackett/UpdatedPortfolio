@@ -10,7 +10,7 @@ This was a great way to test my styling of gradient texts.
 
 
 
-[View Project here](https://mch2023portfolio.netlify.app/)
+[View Project here](https://2023portfolio.netlify.app/)
 
 
 ### Instructions
